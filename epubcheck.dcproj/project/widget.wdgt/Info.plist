@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllowFileAccessOutsideOfWidget</key>
+	<true/>
+	<key>AllowJava</key>
+	<true/>
+	<key>AllowNetworkAccess</key>
+	<true/>
+	<key>AllowSystem</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>German</string>
+	<key>CFBundleDisplayName</key>
+	<string>Untitled</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.paginagmbh.widget.epubchecker</string>
+	<key>CFBundleName</key>
+	<string>Untitled</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>CloseBoxInsetX</key>
+	<integer>12</integer>
+	<key>CloseBoxInsetY</key>
+	<integer>13</integer>
+	<key>Height</key>
+	<integer>470</integer>
+	<key>MainHTML</key>
+	<string>main.html</string>
+	<key>Width</key>
+	<integer>638</integer>
+</dict>
+</plist>
